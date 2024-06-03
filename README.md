@@ -1,2 +1,2 @@
-# passanger-counter-scrimba
-A simple passenger counter app made with HTML, CSS and JS.
+A passenger counter app made with HTML, CSS and JS.
+This is my first application developed at Scrimba`s JavaScript course.
